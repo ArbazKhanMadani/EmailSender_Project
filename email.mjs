@@ -6,7 +6,7 @@ import { createTransport } from 'nodemailer';
     service: "gmail",
     auth: {
         user: "guyvagabond758@gmail.com",
-        pass: "ktmwbrbkbbbtfokc",
+        pass: "password",
      },
     });
 
